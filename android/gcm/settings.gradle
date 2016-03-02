@@ -1,1 +1,1 @@
-include ':app', ':gcmsender', ':library'
+include ':app', ':gcmsender'
